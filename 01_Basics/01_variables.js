@@ -1,5 +1,6 @@
 console.log("node 01_Basics/01_variables.js")
 
+
 const accountId = "123456789"
 let accountEmail = "ayushsingh@ayush.com" 
 var accountPassword = "12345"
